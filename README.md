@@ -5,7 +5,7 @@
 **Desenvolvedor Full Stack** · Espírito Santo, Brasil 🇧🇷
 
 Construo aplicações web para pequenas empresas e marcas locais — de site institucional
-a sistema interno — com Laravel, React e Next.js.
+a sistema interno — principalmente com Laravel, PHP e JavaScript.
 
 [Portfólio](https://portfolio-vicenzo-prucoli.vercel.app) ·
 [LinkedIn](https://linkedin.com/in/vicenzo-almeida/) ·
@@ -54,8 +54,8 @@ flowchart LR
 
 | | |
 |---|---|
-| **Uso todo dia** | Laravel · PHP · React · Next.js · TypeScript · MySQL |
-| **Uso bem** | JavaScript · Tailwind · Bootstrap · Node.js · PostgreSQL · MariaDB |
+| **Uso todo dia** | Laravel · PHP · JavaScript · Bootstrap · MySQL |
+| **Uso bem** | React · Next.js · TypeScript · Tailwind · Node.js · PostgreSQL · MariaDB |
 | **Infra** | Docker · Apache · cPanel/WHM · Vercel · Git |
 | **Já usei em projeto** | Python · OpenCV · C |
 
